@@ -1,4 +1,4 @@
-# name: Meta-Reels-Recommendation-Engine
+Name: Meta-Reels-Recommendation-Engine
 *description:*
   A prototype recommendation engine integrating Reels, Analytics, and Behavioral datasets 
   to simulate personalized content suggestions similar to Meta's feed. Uses machine learning 
