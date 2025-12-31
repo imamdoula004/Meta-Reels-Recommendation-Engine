@@ -2,12 +2,13 @@ Name: Meta-Reels-Recommendation-Engine
 *description:*
   A prototype recommendation engine integrating Reels, Analytics, and Behavioral datasets 
   to simulate personalized content suggestions similar to Meta's feed. Uses machine learning 
-  to score posts and provide explanations based on user context.
-version: 1.0.0
-author: Imam Ud Doula
-language: Python
-license: MIT
-main_file: main.py
+  to score posts and provide explanations based on user context 
+  
+  version: 1.0.0 
+  author: Imam Ud Doula 
+  language: Python 
+  license: MIT 
+  main_file: main.py
 
 # datasets:
   - name: Reels Dataset
